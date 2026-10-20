@@ -1,0 +1,6 @@
+{
+  "name": "NexusERP Cloud - Multi-Tenant Business & Google Sheets ERP Platform",
+  "description": "Multi-business ERP software service platform featuring wholesale & retail POS, inventory control, thermal receipt printing, purchasing, customer ledgers, and secure Google Cloud Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
